@@ -1,3 +1,15 @@
+
+# react js-responsive-webPage
+
+### The pages has been made mobile firendly using only HTML5 and CSS3(Grid and Media Queries) in React JS. The screen shots showing the page have been attached below:-
+<img src="ScreenShots/Screenshot1.png">
+<img src="ScreenShots/Screenshot2.png">
+<img src="ScreenShots/Screenshot3.png">
+<img src="ScreenShots/Screenshot4.png">
+
+
+# Other Important Information:-
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
